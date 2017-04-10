@@ -1,0 +1,6 @@
+C:\Users\Systems\Documents\Visual Studio 2015\Projects\Domingo\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Systems\Documents\Visual Studio 2015\Projects\Domingo\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Systems\Documents\Visual Studio 2015\Projects\Domingo\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Systems\Documents\Visual Studio 2015\Projects\Domingo\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Systems\Documents\Visual Studio 2015\Projects\Domingo\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Systems\Documents\Visual Studio 2015\Projects\Domingo\TestApp\TestApp\obj\Debug\TestApp.pdb
